@@ -1,4 +1,4 @@
-run# This file is automatically added by @npmcli/template-oss. Do not edit.
+run # This file is automatically added by @npmcli/template-oss. Do not edit.
 
 name: 'Install Latest npm'
 description: 'Install the latest version of npm compatible with the Node version'
